@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.App .cell{
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.App .cell1 {
+  background-color: #121417;
+	color: #eee;
+}
+.App .cell0 {
+  background-color: #49515f;
+	color: #121417;
+}
+body{
+  background-color: #282c34;
+}
